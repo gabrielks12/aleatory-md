@@ -1,5 +1,5 @@
-const gitdobot = (prefix) => {
+const laura = (prefix) => {
     return 'TESTE'
 }
 
-exports.gitdobot = gitdobot
+exports.laura = laura
