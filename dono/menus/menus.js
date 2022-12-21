@@ -74,17 +74,16 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │✾▹ ${prefix}Rankativo
 │✾▹ ${prefix}Checkativo (@MARCAR)
 │✾▹ ${prefix}Ranklevel (DE-TODOS) 
-╰──────────┐
-╭──────────┴─┐
-│ JOGOS/QUIZ
-├────────────
-│✾▹ ${prefix}Iniciar_forca
-│✾▹ ${prefix}Ppt (PEDRA/PAPEL/TESOURA) 
-│✾▹ ${prefix}Jogodavelha (@MARCAR) 
-│✾▹ ${prefix}Ttt (JOGO-DA-VELHA) 
-│✾▹ ${prefix}Cassino
-│✾▹ ${prefix}Quizanimais 1 / 0
-│✾▹ ${prefix}Anagrama 1 / 0
+
+JOGOS/QUIZ
+
+✾▹ ${prefix}Iniciar_forca
+✾▹ ${prefix}Ppt (PEDRA/PAPEL/TESOURA) 
+✾▹ ${prefix}Jogodavelha (@MARCAR) 
+✾▹ ${prefix}Ttt (JOGO-DA-VELHA) 
+✾▹ ${prefix}Cassino
+✾▹ ${prefix}Quizanimais 1 / 0
+✾▹ ${prefix}Anagrama 1 / 0
 
 FIGURINHAS
 
