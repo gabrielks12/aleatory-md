@@ -69,7 +69,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │ INFORMAÇÕES 
 ├────────────
 │✾▹ ${prefix}Ping (VELO) 
-│✾▹ ${prefix}Gitdobot
+│✾▹ ${prefix}laura
 │✾▹ ${prefix}Atividade
 │✾▹ ${prefix}Rankativo
 │✾▹ ${prefix}Checkativo (@MARCAR)
