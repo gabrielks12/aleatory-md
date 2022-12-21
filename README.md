@@ -1,6 +1,6 @@
 # Aleatory MD - BOT DE WHATSAPP
 <div align="center">
-<img src="https://telegra.ph/file/e6018110d95e1a9fc7efe.jpg" alt="Aleatory MD - BOT" width="300" />
+<img src="https://i.imgur.com/rGZfuvh.jpg" alt="TIKA - BOT" width="300" />
 
 </div>
 <p align="center">

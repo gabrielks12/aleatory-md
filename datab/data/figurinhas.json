@@ -59200,10 +59200,6 @@
                   "rowId": "#infodono"
                 },
                 {
-                  "title": "A git de instalação do bot",
-                  "rowId": "#gitdobot"
-                },
-                {
                   "title": "Audio informando sobre o bot",
                   "description": "Lista de menus de comandos / informando..",
                   "rowId": "#infobot"
